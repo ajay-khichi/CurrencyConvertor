@@ -10,7 +10,7 @@ import java.util.Scanner;
 import org.json.JSONObject;
 
 public class CurrencyConverter {
-    private static final String API_KEY = "5bf97044fce53293a9684439"; // Replace with your actual API key
+    private static final String API_KEY = "Your_API_KEY"; // Replace with your actual API key
     private static final String[] COUNTRIES = {"United States", "India", "United Kingdom", "Canada", "Australia"};
     private static final String[] CURRENCIES = {"USD", "INR", "GBP", "CAD", "AUD"};
 
